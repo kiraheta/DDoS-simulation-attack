@@ -24,6 +24,8 @@ Under no event shall the Licensor be responsible for the activities, or any misd
 ### Running LOIC on LINUX / MACOSX and WINDOWS
 
    Follow instructions to run [LOIC](https://github.com/NewEraCracker/LOIC)
+   
+### Running LOIC on Kali
 
 Since set-up can be tedious, follow the instructions below for running LOIC on Kali:
 
