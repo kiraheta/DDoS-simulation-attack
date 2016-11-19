@@ -31,7 +31,7 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 
 1. Download & extract Windows binaries: https://github.com/NewEraCracker/LOIC/releases
 
-2. Install Mono
+2. Install Mono -- More [info](http://www.mono-project.com/docs/getting-started/install/linux/)
 
      `sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF`
 
