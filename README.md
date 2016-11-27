@@ -1,5 +1,5 @@
 # Overview
-A Dos simulation attack for education purposes
+A DDoS simulation attack for education purposes
 
 # Environment Setup
 ##Kali Linux
