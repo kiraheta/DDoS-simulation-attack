@@ -57,7 +57,8 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 
 5. LOIC will now run
 
-## Raspbian Linux 
+## Setting up Raspberry Pi
+### Raspbian Linux 
 
 1. Download [Raspbian Linux](https://downloads.raspberrypi.org/raspbian_latest) 
 
@@ -65,7 +66,7 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 
 3. Insert SD card in RPi & boot up
 
-## Running a Local Server
+### Running a Local Server
 
 1. Install NGINX
 
@@ -75,7 +76,7 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 
       `sudo netstat -an | grep LISTEN | grep :80`
 
-## Add Target Website
+### Add Target Website
 
 1. Download "Wildlife Photography"
 
