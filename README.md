@@ -56,3 +56,16 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 4. Open terminal and type *mono /path_to_loic/debug/LOIC.exe*
 
 5. LOIC will now run
+
+## Raspbian Linux 
+
+1. Download [Raspbian Linux](https://downloads.raspberrypi.org/raspbian_latest) 
+
+2. Install Raspberry Pi OS image on an SD card
+https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+
+## Target Website: Wildlife Photography
+
+1. Download "Wildlife Photography"
+
+2. Add files to /var/www
