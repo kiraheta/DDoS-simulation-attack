@@ -63,8 +63,20 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 
 2. Install [Raspberry Pi OS image on an SD card](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
-## Target Website: Wildlife Photography
+3. Insert SD card in RPi & boot up
+
+## Running a Local Server
+
+1. Install NGINX
+
+      `sudo apt-get install nginx`
+      
+2. NGINX usually starts after installation. Double check it's running
+
+      `sudo netstat -an | grep LISTEN | grep :80`
+
+## Add Target Website
 
 1. Download "Wildlife Photography"
 
-2. Add files to /var/www
+2. Add files to /var/www in NGINX in RPi
