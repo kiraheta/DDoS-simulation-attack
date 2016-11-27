@@ -43,15 +43,15 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
      
 3. Install Packages -- More [info](http://www.mono-project.com/docs/getting-started/install/linux/#usage)
 
-     `sudo apt-get mono-devel`
+     `sudo apt-get install mono-devel`
      
-     `sudo apt-get mono-complete`
+     `sudo apt-get install mono-complete`
      
-     `sudo apt-get referenceassemblies-pcl`
+     `sudo apt-get install referenceassemblies-pcl`
      
-     `sudo apt-get ca-certificates-mono`
+     `sudo apt-get install ca-certificates-mono`
      
-     `sudo apt-get mono-xsp4`
+     `sudo apt-get install mono-xsp4`
 
 4. Open terminal and type *mono /path_to_loic/debug/LOIC.exe*
 
