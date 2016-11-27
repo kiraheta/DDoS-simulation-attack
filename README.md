@@ -61,8 +61,7 @@ Since set-up can be tedious, follow the instructions below for running LOIC on K
 
 1. Download [Raspbian Linux](https://downloads.raspberrypi.org/raspbian_latest) 
 
-2. Install Raspberry Pi OS image on an SD card
-https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+2. Install [Raspberry Pi OS image on an SD card](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
 ## Target Website: Wildlife Photography
 
