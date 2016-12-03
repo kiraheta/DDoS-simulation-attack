@@ -2,14 +2,19 @@
 A DDoS simulation attack for educational purposes
 
 # Environment Setup
-##Kali Linux
+##Kali Linux & Debian Wheezy
 
 
 
 1. Download [Kali Linux](https://www.kali.org/downloads/)
 
    Or from terminal: `curl -L http://cdimage.kali.org/kali-2016.2/kali-linux-2016.2-amd64.iso>kali-linux-2016.2-amd64.iso`
-2. Install on [VMware Fusion](http://www.vmware.com/products/fusion/fusion-evaluation.html) or [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
+   
+2. Download [Debian Wheezy](https://www.debian.org/releases/wheezy/amd64/index)
+
+   Or from terminal: `curl -L http://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-cd/debian-7.11.0-amd64-netinst.iso>debian-7.11.0-amd64-netinst.iso`
+
+3. Install on [VMware Fusion](http://www.vmware.com/products/fusion/fusion-evaluation.html) or [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
 
 ##Loic (Low Orbit Ion Cannon) 
 An open source network stress tool, written in C#. Based on [Praetox's LOIC project](https://sourceforge.net/projects/loic/)
