@@ -2,7 +2,7 @@
 A DDoS simulation attack for educational purposes
 
 # Environment Setup
-##Kali Linux & Debian Wheezy
+## Kali Linux & Debian Wheezy
 
 
 
@@ -16,7 +16,7 @@ A DDoS simulation attack for educational purposes
 
 3. Install on [VMware Fusion](http://www.vmware.com/products/fusion/fusion-evaluation.html) or [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
 
-##Loic (Low Orbit Ion Cannon) 
+## Loic (Low Orbit Ion Cannon) 
 An open source network stress tool, written in C#. Based on [Praetox's LOIC project](https://sourceforge.net/projects/loic/)
 
 [SOURCE](https://github.com/NewEraCracker/LOIC)
